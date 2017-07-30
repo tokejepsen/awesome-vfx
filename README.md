@@ -8,7 +8,6 @@ DCCs
 |Name         |OSS      |Free    |Link|
 |-------      |--       |--------|----|
 |Blender      |Yes      |Yes     |[Go](https://www.blender.org/)|
-|Natron       |GNU      |Yes     |[Go](http://natron.fr/)
 |Fabric Engine|No       |Depends |[Go](http://fabricengine.com/)
 |Houdini      |No       |Depends |[Go](https://www.sidefx.com/)|
 |Maya         |No       |Depends |[Go](https://www.autodesk.com/education/free-software/maya)|
@@ -16,7 +15,16 @@ DCCs
 |Modo         |No       |No      |[Go](https://www.foundry.com/products/modo)
 |Katana       |No       |No      |[Go](https://www.foundry.com/products/katana)
 |Mari         |No       |No      |[Go](https://www.foundry.com/products/mari)
+
+
+2D Paint and Comp
+==========
+|Name         |OSS      |Free    |Link|
+|-------      |--       |--------|----|
+|Fusion       |No       |Yes     |[Go](https://www.blackmagicdesign.com/ca/products/fusion/)
+|Krita        |Yes      |Yes     |[Go](https://krita.org/en/)
 |Mischief     |No       |No      |[Go](https://www.madewithmischief.com/)
+|Natron       |GNU      |Yes     |[Go](http://natron.fr/)
 
 
 Non-DCC
@@ -78,3 +86,8 @@ Tutorials
 |Name           |Free    |Link
 |---------------|--------|----------------------------------------------------------------------------|
 |Python for Maya|Yes   |[Go](http://dgovil.com/blog/2016/11/18/python-for-maya-course/)
+
+
+Blender
+==========
+
