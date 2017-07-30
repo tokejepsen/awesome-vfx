@@ -1,3 +1,7 @@
+=======
+# awesome-vfx
+A curated list of awesome vfx tools.
+
 DCCs
 ==========
 
@@ -58,7 +62,3 @@ Tutorials
 |Name           |Free    |Link
 |---------------|--------|----------------------------------------------------------------------------|
 |Python for Maya|Yes   |[Go](http://dgovil.com/blog/2016/11/18/python-for-maya-course/)
-
-
-
-
