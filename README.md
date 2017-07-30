@@ -36,15 +36,28 @@ Engines
 
 Cross App Libraries
 ==========
-|Name            |OSS |Free    |Link                          
-|----------------|----|--------|------------------------------
-|Open Image IO   |BSD |Yes     |[Source](https://github.com/OpenImageIO/oiio)|
-|Open Color IO   |Yes |Yes     |[Site](http://opencolorio.org/)
-|Open Timeline IO|    |Yes     |[Site](http://opentimelineio.org/)
-|USD             |Yes |Yes     |[Source](https://github.com/PixarAnimationStudios/USD)
-|ACES            |Yes |Yes     |[Source](https://github.com/ampas/aces-dev/)
-|Qt.py           |MIT |Yes     |[Source](https://github.com/mottosso/Qt.py)
-|cross3d         |MIT |Yes     |[Source](https://github.com/blurstudio/cross3d)
+|Name            |OSS    |Free    |Link                          
+|----------------|----   |--------|------------------------------
+|ACES            |Yes    |Yes     |[Source](https://github.com/ampas/aces-dev/)
+|Alembic         |Yes    |Yes     |[Site](http://www.alembic.io/) [Source](https://github.com/alembic/alembic)
+|cross3d         |MIT    |Yes     |[Source](https://github.com/blurstudio/cross3d)
+|Open Color IO   |Yes    |Yes     |[Site](http://opencolorio.org/)
+|Open Image IO   |BSD    |Yes     |[Source](https://github.com/OpenImageIO/oiio)
+|Open Subdiv     |Apache2|Yes     |[Site](http://graphics.pixar.com/opensubdiv/docs/intro.html) [Source](https://github.com/PixarAnimationStudios/OpenSubdiv)
+|Open Timeline IO|       |Yes     |[Site](http://opentimelineio.org/)
+|Qt.py           |MIT    |Yes     |[Source](https://github.com/mottosso/Qt.py)
+|USD             |Yes    |Yes     |[Source](https://github.com/PixarAnimationStudios/USD)
+
+
+Blogs
+==========
+|Author Name                                |Description
+|-----------                                |------------|
+|[Cesar Margotta](http://www.cesarsaez.me/) |Prior Rigger, now Software Dev.|
+|[Dhruv Govil](http://dgovil.com/)          |Pipeline Developer, posts a lot about processes and projects.|
+|[Jonathan Cooper](http://www.gameanim.com/)|Game Animator, posts _a lot_ about animation. Nicely laid out side.|
+|[Siew Yi Liang](http://sonictk.com/)       |Cinematic TD, posts a lot about rigging tools and development.|
+
 
 
 Maya
@@ -77,6 +90,7 @@ Tools
 |[Angular Nodes](https://github.com/yantor3d/angularNodes)         |MIT   |Yes     |Library of Maya nodes to do arithmetic on angles without polluting the scene with unitConversion nodes.
 |[Array Nodes](https://github.com/yantor3d/arrayNodes)             |MIT   |Yes     |Set of Maya nodes for operating on arrays of values.
 |[boneToMesh](https://github.com/yantor3d/boneToMesh)              |MIT   |Yes     |Maya plugin for creating proxy geometry for rigs.
+|[cvWrap](https://github.com/chadmv/cvwrap)                        |MIT   |Yes     |A Maya wrap deformer that is faster than Maya's wrap deformer, can be rebounded, has a GPU implementation, and supports inverted front of chain blend shapes.
 |[grimIK](https://github.com/kattkieru/grim_IK)                    |GPLv3 |Yes     |Non-iterative two-bone IK plugin with Soft IK, IK / FK switching, reversing, and elbow pinning in one node for Autodesk Maya 2016+.
 |[maya-capture](https://github.com/abstractfactory/maya-capture)   |MIT   |Yes     |Playblasting in Maya done right.
 |[maya-capture-gui](https://github.com/Colorbleed/maya-capture-gui)|MIT   |Yes     |GUI front-end for maya-capture.
@@ -93,7 +107,7 @@ Tools
 |[quicklauncher](https://github.com/csaez/quicklauncher)           |??????|Yes     |A minimal Qt based menu to quickly find and execute Maya commands and user scripts.
 |[Simplex Solver](https://github.com/blurstudio/Simplex)           |LGPLv3|Yes     |The Simplex Solver is cross-package plugin and tool for dealing with complex blendshape combos in for high-end facial rigs.
 |[Shapes](http://www.braverabbit.com/shapes/)                      |No    |No      |Easy to use blend shape editing tool providing a unified workflow to create and edit blend shape targets and related dependencies for character articulation.
-
+|[skinWrangler](https://github.com/chrisevans3d/skinWrangler)      |Yes   |Yes     |A skinning tool for Autodesk Maya.
 
 Tutorials
 ----------
@@ -101,7 +115,7 @@ Tutorials
 ## Rigging
 |Name           |Free    |Link
 |---------------|--------|----------------------------------------------------------------------------|
-|Cult of Rig    |Yes     |[YouTube](http://youtube.com/cultofrig) [Twitch](http://twitch.tv/cultofrig)|
+|Cult of Rig    |Yes     |[YouTube](http://youtube.com/cultofrig) [Twitch](http://twitch.tv/cultofrig) [Site](http://www.cultofrig.com/) [Calendar](http://www.cultofrig.com/streamcalendar/)|
 
 ## Scripting
 |Name           |Free    |Link
