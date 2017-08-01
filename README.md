@@ -1,4 +1,3 @@
-=======
 # awesome-vfx
 A curated list of awesome vfx tools.
 
@@ -51,12 +50,13 @@ Cross App Libraries
 
 Blogs
 ==========
-|Author Name                                |Description
-|-----------                                |------------|
-|[Cesar Margotta](http://www.cesarsaez.me/) |Prior Rigger, now Software Dev.|
-|[Dhruv Govil](http://dgovil.com/)          |Pipeline Developer, posts a lot about processes and projects.|
-|[Jonathan Cooper](http://www.gameanim.com/)|Game Animator, posts _a lot_ about animation. Nicely laid out side.|
-|[Siew Yi Liang](http://sonictk.com/)       |Cinematic TD, posts a lot about rigging tools and development.|
+|Author Name                                   |Description
+|-----------                                   |------------|
+|[Cesar Margotta](http://www.cesarsaez.me/)    |Prior Rigger, now Software Dev.|
+|[Dhruv Govil](http://dgovil.com/)             |Pipeline Developer, posts a lot about processes and projects.|
+|[Jonathan Cooper](http://www.gameanim.com/)   |Game Animator, posts _a lot_ about animation. Nicely laid out side.|
+|[Siew Yi Liang](http://sonictk.com/)          |Cinematic TD, posts a lot about rigging tools and development.|
+|[Ryan Porter](https://yantor3d.wordpress.com/)|Rigger, does a lot of development and rigging work.
 
 
 
@@ -90,6 +90,7 @@ Tools
 |[Angular Nodes](https://github.com/yantor3d/angularNodes)         |MIT   |Yes     |Library of Maya nodes to do arithmetic on angles without polluting the scene with unitConversion nodes.
 |[Array Nodes](https://github.com/yantor3d/arrayNodes)             |MIT   |Yes     |Set of Maya nodes for operating on arrays of values.
 |[boneToMesh](https://github.com/yantor3d/boneToMesh)              |MIT   |Yes     |Maya plugin for creating proxy geometry for rigs.
+|[cvShapeInverter](https://github.com/chadmv/cvshapeinverter)      |MIT   |Yes     |A script and deformer that can invert a shape through a deformation chain so the shape can be applied as a front of chain shape.
 |[cvWrap](https://github.com/chadmv/cvwrap)                        |MIT   |Yes     |A Maya wrap deformer that is faster than Maya's wrap deformer, can be rebounded, has a GPU implementation, and supports inverted front of chain blend shapes.
 |[grimIK](https://github.com/kattkieru/grim_IK)                    |GPLv3 |Yes     |Non-iterative two-bone IK plugin with Soft IK, IK / FK switching, reversing, and elbow pinning in one node for Autodesk Maya 2016+.
 |[maya-capture](https://github.com/abstractfactory/maya-capture)   |MIT   |Yes     |Playblasting in Maya done right.
@@ -122,6 +123,18 @@ Tutorials
 |---------------|--------|----------------------------------------------------------------------------|
 |Python for Maya|No      |[Site](http://dgovil.com/blog/2016/11/18/python-for-maya-course/)
 
+
+Nuke
+================
+|Name                                              |OSS   |Free    |Description
+|--------------------------------------------------|------|--------|------------|
+|[connect](www.cragl.com/connect)                  |No    |Yes     |Manage Cragl tools.
+|[smartRender](http://www.cragl.com/smartRender)   |No    |No      |Multithreaded background rendering and super fast feedback for NUKE.
+|[smartLook](http://www.cragl.com/smartLook)       |No    |No      |Fast look development inside NUKE, Infinite global toolsets.
+|[smartMessage](http://www.cragl.com/smartMessage) |No    |No      |Instant messenger for NUKE and MAYA. Communicate with other artists, share data and connect locally and world wide.
+|[smartLib](http://www.cragl.com/smartLib)         |No    |No      |Project and shot management for Nuke.
+|[smartShelves](http://www.cragl.com/smartShelves) |No    |No      |Manage your node menus including nodes and gizmos in a clever and simple way.
+|[smartRecents](http://www.cragl.com/smartRecents) |No    |No      |Quickly jump to your recent Nuke projects and keep track of your work
 
 
 Fabric Engine
