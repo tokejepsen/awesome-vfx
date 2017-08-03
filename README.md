@@ -65,6 +65,13 @@ Blogs
 Maya
 ==========
 
+Libraries
+----------
+| Name                                                    | OSS     | Free | Description                        |
+|---------------------------------------------------------|---------|------|------------------------------------|
+| [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) | Apache2 | Yes  | Animal Logic's USD Plugin for Maya |
+
+
 Tools
 ----------
 ## Animation
