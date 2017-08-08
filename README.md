@@ -44,9 +44,9 @@ Cross App Libraries
 | cross3d          | MIT     | Yes  | [Source](https://github.com/blurstudio/cross3d)                                                                            |
 | MaterialX        | Apache2 | Yes  | [Site](http://www.materialx.org/)[Source](https://github.com/materialx/MaterialX/)                                         |
 | Open Color IO    | Yes     | Yes  | [Site](http://opencolorio.org/)                                                                                            |
-| Open Image IO    | BSD     | Yes  | [Source](https://github.com/OpenImageIO/oiio)                                                                              |
+| Open Image IO    | BSD     | Yes  | [Site](https://sites.google.com/site/openimageio/home) [Source](https://github.com/OpenImageIO/oiio)                       |
 | Open Subdiv      | Apache2 | Yes  | [Site](http://graphics.pixar.com/opensubdiv/docs/intro.html) [Source](https://github.com/PixarAnimationStudios/OpenSubdiv) |
-| Open Timeline IO |         | Yes  | [Site](http://opentimelineio.org/)                                                                                         |
+| Open Timeline IO | Apache2 | Yes  | [Site](http://opentimelineio.org/) [Source](https://github.com/PixarAnimationStudios/OpenTimelineIO)                       |
 | Qt.py            | MIT     | Yes  | [Source](https://github.com/mottosso/Qt.py)                                                                                |
 | USD              | Yes     | Yes  | [Source](https://github.com/PixarAnimationStudios/USD)                                                                     |
 
@@ -60,6 +60,18 @@ Blogs
 | [Jonathan Cooper](http://www.gameanim.com/)    | Game Animator, posts _a lot_ about animation. Nicely laid out side. |
 | [Siew Yi Liang](http://sonictk.com/)           | Cinematic TD, posts a lot about rigging tools and development.      |
 | [Ryan Porter](https://yantor3d.wordpress.com/) | Rigger, does a lot of development and rigging work.                 |
+
+
+USD
+==========
+| Name                                                                 | OSS     | Free | Description                                               |
+|----------------------------------------------------------------------|---------|------|-----------------------------------------------------------|
+| [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya)              | Apache2 | Yes  | Animal Logic's USD Plugin for Maya.                       |
+| [LumaUSD](https://github.com/LumaPictures/luma_usd)                  | ?????   | Yes  | Plugins for USD.                                          |
+| [USD Arnold](https://github.com/LumaPictures/usd-arnold)             | Yes     | Yes  | USD schemas, exporters and importers for Arnold renderer. |
+| [USD QT](https://github.com/LumaPictures/usd-qt)                     | Apache2 | Yes  | Reusable Qt components for Pixar's USD.                   |
+| [USD URI Resolver](https://github.com/LumaPictures/usd-uri-resolver) | Yes     | Yes  | Pluggable URI ArResolver for USD.                         |
+
 
 
 Maya
@@ -133,6 +145,7 @@ Tools
 | Name                                                   | OSS | Free | Description                                                                         |
 |--------------------------------------------------------|-----|------|-------------------------------------------------------------------------------------|
 | [Charcoal Editor](http://zurbrigg.com/charcoal-editor) | No  | No   | Professional Maya Scripting.                                                        |
+| [MayaCharm](https://github.com/cmcpasserby/MayaCharm)  | MIT | Yes  | Maya integration for PyCharm.                                                       |
 | [MayaSublime](https://github.com/justinfx/MayaSublime) | MIT | Yes  | Send selected Python and MEL code snippets from SublimeText to Maya via commandPort |
 
 
