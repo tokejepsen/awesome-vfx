@@ -30,9 +30,11 @@ DCCs
 
 Engines
 ==========
-| Name  | OSS | Free | Link                                                                            |
-|-------|-----|------|---------------------------------------------------------------------------------|
-| GoDot | MIT | Yes  | [Site](https://godotengine.org/) [Source](https://github.com/godotengine/godot) |
+| Name          | OSS | Free    | Link                                                                            |
+|---------------|-----|---------|---------------------------------------------------------------------------------|
+| GoDot         | MIT | Yes     | [Site](https://godotengine.org/) [Source](https://github.com/godotengine/godot) |
+| Unity         | No  | Depends | [Site](https://unity3d.com/)                                                    |
+| Unreal Engine | Yes | Depends | [Site](https://www.unrealengine.com)                                            |
 
 
 Cross App Libraries
@@ -53,13 +55,18 @@ Cross App Libraries
 
 Blogs
 ==========
-| Author Name                                    | Description                                                         |
-|------------------------------------------------|---------------------------------------------------------------------|
-| [Cesar Margotta](http://www.cesarsaez.me/)     | Prior Rigger, now Software Dev.                                     |
-| [Dhruv Govil](http://dgovil.com/)              | Pipeline Developer, posts a lot about processes and projects.       |
-| [Jonathan Cooper](http://www.gameanim.com/)    | Game Animator, posts _a lot_ about animation. Nicely laid out side. |
-| [Siew Yi Liang](http://sonictk.com/)           | Cinematic TD, posts a lot about rigging tools and development.      |
-| [Ryan Porter](https://yantor3d.wordpress.com/) | Rigger, does a lot of development and rigging work.                 |
+| Author Name                                       | Description                                                         |
+|---------------------------------------------------|---------------------------------------------------------------------|
+| [Cesar Margotta](http://www.cesarsaez.me/)        | Prior Rigger, now Software Dev.                                     |
+| [Chris Offner](http://chrisoffner.eu/)            | Generalist, Maya/Modo/Blender                                       |
+| [Dhruv Govil](http://dgovil.com/)                 | Pipeline Developer, posts a lot about processes and projects.       |
+| [Jonathan Cooper](http://www.gameanim.com/)       | Game Animator, posts _a lot_ about animation. Nicely laid out side. |
+| [Marco Giordano](http://www.marcogiordanotd.com/) | Rigger, Developer.                                                  |
+| [Morgan Loomis](http://morganloomis.com/)         | Technical Animator.                                                 |
+| [Ryan Porter](https://yantor3d.wordpress.com/)    | Rigger, does a lot of development and rigging work.                 |
+| [Siew Yi Liang](http://sonictk.com/)              | Cinematic TD, posts a lot about rigging tools and development.      |
+| [Steve Theodore](https://theodox.github.io/)      | Technical Art, pretty much covers everything.                       |
+
 
 
 USD
