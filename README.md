@@ -201,3 +201,9 @@ Modo
 | [Modo_Popups](https://github.com/tcrowson/Modo_Popups)                 | ????? | Yes  | A collection of plugins featuring a pop-up search field.          |
 | [Modo_ProjectManager](https://github.com/tcrowson/Modo_ProjectManager) | ????? | Yes  | Modo 901. Basic Project Managment Kit.                            |
 | [Modo_LightBank](https://github.com/tcrowson/Modo_LightBank)           | MIT   | Yes  | For Modo 801 Linux. Custom Viewport for accessing light channels. |
+
+Mari
+===============
+| Name                                                       | OSS   | Free | Description                       |
+|------------------------------------------------------------|-------|------|-----------------------------------|
+| [stkMariTools](https://bitbucket.org/sonictk/stkmaritools) | GPLv3 | Yes  | Collection of utilities for Mari. |
