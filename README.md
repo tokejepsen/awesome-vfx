@@ -116,9 +116,10 @@ Tools
 ## Pipeline
 |                               Name                               |   OSS   | Free |                                            Description                                            |
 | ---------------------------------------------------------------- | ------- | ---- | ------------------------------------------------------------------------------------------------- |
-| [animx](https://github.com/Autodesk/animx)                       | Apache2 | Yes  | A project to make it easier for people to use Maya animation in their tools and pipelines.        |
-| [mayaTaskServer](https://github.com/chrisevans3d/mayaTaskServer) | ?????   | Yes  | A standalone Maya Task Server.                                                                    |
-| [uExport](https://github.com/chrisevans3d/uExport)               | ?????   | Yes  | uExport is a simple tool to automatically export complex characters from Maya to Unreal Engine 4. |
+| [animx](https://github.com/Autodesk/animx)                               | Apache2 | Yes  | A project to make it easier for people to use Maya animation in their tools and pipelines.        |
+| [mayaTaskServer](https://github.com/chrisevans3d/mayaTaskServer)         | ?????   | Yes  | A standalone Maya Task Server.                                                                    |
+| [maya-alembic-export](https://github.com/tokejepsen/maya-alembic-export) | LGPLv3  | Yes  | Alembic exporting made easier.                                                                                                                                                          |
+| [uExport](https://github.com/chrisevans3d/uExport)                       | ?????   | Yes  | uExport is a simple tool to automatically export complex characters from Maya to Unreal Engine 4. |
 
 ## Rigging
 
@@ -136,7 +137,6 @@ Tools
 | [grimIK](https://github.com/kattkieru/grim_IK)                             | GPLv3  | Yes     | Non-iterative two-bone IK plugin with Soft IK, IK / FK switching, reversing, and elbow pinning in one node for Autodesk Maya 2016+.                                                      |
 | [maya-capture](https://github.com/abstractfactory/maya-capture)            | MIT    | Yes     | Playblasting in Maya done right.                                                                                                                                                         |
 | [maya-capture-gui](https://github.com/Colorbleed/maya-capture-gui)         | MIT    | Yes     | GUI front-end for maya-capture.                                                                                                                                                          |
-| [maya-alembic-export](https://github.com/tokejepsen/maya-alembic-export)   | LGPLv3 | Yes     | Alembic exporting made easier.                                                                                                                                                          |
 | [maya-math-nodes](https://github.com/serguei-k/maya-math-nodes)            | MIT    | Yes     | Collection of math nodes for Autodesk Maya                                                                                                                                               |
 | [maya-pymetanode](https://github.com/bohdon/maya-pymetanode)               | MIT    | Yes     | A simple solution for storing python objects as data on a node in Maya.                                                                                                                  |
 | [maya-pulse](https://github.com/bohdon/maya-pulse)                         | MIT    | Yes     | A rigging framework for Maya.                                                                                                                                                            |
